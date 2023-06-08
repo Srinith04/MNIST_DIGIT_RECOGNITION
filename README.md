@@ -17,7 +17,7 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-<h3 align="center">MNIST DIGIT RECOGNITION</h3>
+<h3 align="center">OBJECT RECOGNITION</h3>
 </div>
 
    
@@ -29,8 +29,12 @@
 
 This repository contains two sub-folders , one is "using NN" and other is "using CNN"
 <ol>
-  <li> The "using NN" contains code for digit recognition using Neural Networks from scratch.
-  <li> The "using CNN" contains code for digit recognition using Convolution Neural Networks with Tensorflow
+  <li> The "using NN" contains code for digit recognition using Neural Networks from scratch and MNIST Digit dataset is used.
+  <li> The "using CNN" contains two codes:
+     <ol>
+     <li> One is for recognition using Convolution Neural Networks with Tensorflow on the CIFAR 10 dataset.
+     <li> One is for digit recognition on MNIST dataset using CNN with Tensorflow.
+     </ol>
 </ol>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

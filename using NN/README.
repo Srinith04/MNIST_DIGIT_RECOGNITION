@@ -1,0 +1,11 @@
+DASARI SRINITH , CS21BTECH11015
+
+MNIST-DIGIT RECOGNISION USING NEURAL NETWORKS:
+
+The data folder contains the dataset
+The src contains 2 python files , one of which is used to load data from the dataset (data_load.py) 
+and the other one is for back-propagation and SGD (mnist_digit.py)
+Run only the mnist_digit.py program to get the output as how you would execute a python program
+All the arguments are given in python file inself , if you would like to change the architecture 
+of the network , kindly change it in the program.
+Do not change the location of data folder , if changed , give the correct location in data_load.py
